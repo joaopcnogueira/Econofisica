@@ -3,3 +3,4 @@ Repositório para guardar os projetos da disciplina de Econofísica, ministrada 
 
 Na pasta Notas-de-Aula-UFC está o material usado no curso.
 
+Playlist sobre Econofísica -> https://www.youtube.com/watch?v=K_5prtFhJAI&list=PLAmQVrr4UdsuUpxtJvL2NQ5j9oOlpsRS7
