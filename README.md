@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/joaopcnogueira/Econofisica.git/master)
+
 # Econofísica
 Repositório para guardar os projetos da disciplina de Econofísica, ministrada no curso de pós-graduação em física da Universidade Federal do Ceará (UFC) pelo Prof. Carlos Lenz.
 
